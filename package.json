@@ -1,0 +1,22 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinSalina/NodeJSPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinSalina/NodeJSPractice/issues"
+  },
+  "homepage": "https://github.com/KevinSalina/NodeJSPractice#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
