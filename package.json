@@ -18,5 +18,8 @@
   "homepage": "https://github.com/KevinSalina/NodeJSPractice#readme",
   "devDependencies": {
     "eslint": "^7.29.0"
+  },
+  "dependencies": {
+    "everyday-fun": "^1.1.0"
   }
 }

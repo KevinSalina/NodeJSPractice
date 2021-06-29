@@ -1,8 +1,9 @@
-const exampleFn = num => num + 1
+// Intialized
+const all = require('everyday-fun')
 
-console.log(exampleFn(3))
+console.log(all.getRandomJoke())
+console.log(all.getRandomRiddle())
+console.log(all.getRandomQuote())
 
-const exampleStr = 'My Name is Kevin'
 
-console.log(exampleStr)
 
